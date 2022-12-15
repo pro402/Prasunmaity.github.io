@@ -1,2 +1,2 @@
-# Prasunmaity.github.io
+# pro402.github.io
 basic portfolio website
