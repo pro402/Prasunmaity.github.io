@@ -1,6 +1,6 @@
 .prop{
     color:rgb(3, 162, 236);
-    
+
 }
 .bod{
     background-color: powderblue;
@@ -15,10 +15,27 @@
     background-color: #E1D7C6;
 }
 .aa{
-    margin: 0px;
+    margin: 0%;
     background-color: #ECE8DD;
 }
 .as{
     margin: 0px;
     background-color: #F8F4EA;
+}
+.h22{
+    background-color: rgb(201, 220, 93);
+    border-style:dotted;
+    margin: 10px;
+    border-width:3px;
+    width: 30%;
+    align-items: center;
+}
+.lol>label{
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+.lol>textarea{
+    width: 268px;
+    height: 14px;
 }
